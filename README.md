@@ -1,4 +1,4 @@
-# Le projet est transféré vers le projet [PLU SIG OPENSOURCE](https://gitlab.com/plu-sig-opensource/)
+# Le projet est transféré vers le projet [PLU SIG OPENSOURCE](https://gitlab.com/plu-sig-opensource/omiplu-qgis)
 # OMiPLU_QGIS
 ## Transposition de la ToolBox OMiPLU sous QGis
 
