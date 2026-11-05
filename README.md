@@ -5,4 +5,4 @@ L'objectif de ce projet est de transposer la ToolBox [OMiPLU](https://omiplu.mik
 
 [OMiPLU](https://omiplu.mikkrogeo.com) est une ToolBox ArcGISpro permettant de migrer n'importe quelle donnée PLU vers le [standard CNIG PLU](https://github.com/cnigfr/schema-plan-local-urbanisme)
 
-### Le projet est transféré sur [GITLAB](https://gitlab.com/plu-sig-opensource/omiplu-qgis)
+### Le projet est hébergé sur [GITLAB](https://gitlab.com/plu-sig-opensource/omiplu-qgis)
